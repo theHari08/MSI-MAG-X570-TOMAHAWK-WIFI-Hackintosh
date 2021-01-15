@@ -10,7 +10,7 @@ Basic EFI folder to run macOS Big Sur on a MSI MAG X570 TOMAHAWK WIFI motherboar
 
 **Processor**   : AMD Ryzen 9 3950X 16 core Processor
 
-**Graphics**    : Radeon RX 580
+**Graphics**    : Sapphire Pulse Radeon RX 580 8GB GDDR5
 
 **Memory**      : G.SKILL RIPJAWS DDR4 3200MHz - 4x16GB
 
